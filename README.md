@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JAVA(JEE-SPRINGBOOT)**
 
-- 📫 How to reach me **jerrari.ys@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/yassir-jerrari-711753240/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
