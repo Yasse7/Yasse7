@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YASSIR JERRARI</h1>
+<h1 align="center">Hi 👋, I'm YASSIR</h1>
 <h3 align="center">SOFTWARE DEVELOPPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasse7&label=Profile%20views&color=0e75b6&style=flat" alt="yasse7" /> </p>
